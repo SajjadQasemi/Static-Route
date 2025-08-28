@@ -24,4 +24,4 @@ Understanding static routing
 Configuring IP addressing in subnets
 
 Building a multi-router network in PnetLab ![Static Route Dia](https://github.com/user-attachments/assets/d4e4a72a-0a2c-4b57-854e-8e9d94a7dae4)
-/Packet Tracer / GNS3
+PnetLab/ Packet Tracer / GNS3
